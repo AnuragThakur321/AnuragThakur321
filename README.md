@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+%F0%9F%91%8B,+I+am+Anurag+Thakur;UI/UX+Designer;Frontend+Developer;Game+Dev+Enthusiastic;Lifelong+Learner!&center=true&width=500&height=50&color=58a6ff&vCenter=true&size=20">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+%F0%9F%91%8B,+I+am+Anurag+Thakur;Software+Engineer;Java+Full+Stack+Developer;Game+Dev+Enthusiastic;Lifelong+Learner!&center=true&width=500&height=50&color=58a6ff&vCenter=true&size=20">
 </p>
 
 <h1 align="center">Welcome to My GitHub!</h1>
-<h3 align="center">Frontend Developer | UI/UX Designer | Game Dev Learner</h3>
+<h3 align="center">Java Developer | Software Engineer | Game Dev Enthusiastic</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif"/>
